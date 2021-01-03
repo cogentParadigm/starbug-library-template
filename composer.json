@@ -1,0 +1,21 @@
+{
+  "name": "starbug/library-template",
+  "type": "template",
+  "description": "A project template for starbug library packages.",
+  "keywords": ["template"],
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Ali Gangji",
+      "homepage": "https://github.com/cogentParadigm"
+    }
+  ],
+  "require-dev": {
+    "starbug/devel": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Starbug\\Library\\": "src/"
+    }
+  }
+}

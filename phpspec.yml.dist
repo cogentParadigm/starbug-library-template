@@ -1,0 +1,4 @@
+suites:
+  default:
+    namespace: Starbug\Library
+    psr4_prefix: Starbug\Library

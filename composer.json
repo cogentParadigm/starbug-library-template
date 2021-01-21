@@ -11,7 +11,7 @@
     }
   ],
   "require-dev": {
-    "starbug/devel": "*"
+    "starbug/devel": "^1.0"
   },
   "autoload": {
     "psr-4": {
